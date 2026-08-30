@@ -47,7 +47,7 @@ Apps I built and shipped — live on both stores.
 - **My Doctor** — appointment booking with in-app **video, audio and chat** consultations.
 - **Flieger Store** — e-commerce app with product catalog, stories, and a merchant-side publishing flow.
 - **Elamana Organization** *(freelance)* — inventory & invoicing app built on Firebase + GetX with an MVC structure.
-- **Carpooling** — trip-sharing app using Google Maps, REST APIs and GetX.
+- **[Carpooling](https://github.com/YOUSSEFALIEMAM/carpooling)** — trip-sharing app built with GetX and GetStorage. *(source on GitHub)*
 
 ---
 
