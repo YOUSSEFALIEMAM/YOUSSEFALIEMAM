@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer"><img src="https://img.shields.io/badge/Apps%20Published-6%2B-success?style=flat-square" alt="Apps published"/></a>
+  <a href="https://play.google.com/store/apps/developer"><img src="https://img.shields.io/badge/Apps%20Published-7-success?style=flat-square" alt="Apps published"/></a>
   <img src="https://img.shields.io/badge/Experience-3%2B%20years-blue?style=flat-square" alt="Experience"/>
   <img src="https://img.shields.io/badge/Based%20in-Giza%2C%20Egypt-lightgrey?style=flat-square" alt="Location"/>
 </p>
@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-Flutter developer with **3+ years** of hands-on experience building and shipping cross-platform mobile apps for logistics, e-commerce, healthcare, and cooperative-society clients. I've taken **6+ apps from first commit to live on both Google Play and the App Store**, and I work comfortably across the whole delivery path — clean architecture, state management, REST/real-time integration, payment gateways, store release and deep linking.
+Flutter developer with **3+ years** of hands-on experience building and shipping cross-platform mobile apps for logistics, e-commerce, healthcare, and cooperative-society clients. I've taken **7 apps from first commit to live on both Google Play and the App Store**, and I work comfortably across the whole delivery path — clean architecture, state management, REST/real-time integration, payment gateways, store release and deep linking.
 
 - 🔭 Currently a **Mid-Level Flutter Developer** at **Develop KW**
 - 🧱 Focused on **Clean Architecture**, **BLoC/Cubit**, and maintainable, testable code
@@ -34,6 +34,7 @@ Apps I built and shipped — live on both stores.
 
 | App | What it does | Store |
 |---|---|---|
+| **Royal Mind** | Audio & written content platform — podcasts, audiobooks, novels and personal reading lists | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.developkw.royalmind) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/royal-mind/id6502537182) |
 | **Fego** | Ride-hailing / delivery app for end users | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fego.user) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/fego/id6740404406) |
 | **Fego Driver** | Driver-side companion app with live tracking | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fego.driver) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/fego-driver/id6740406370) |
 | **Bego World** | E-commerce marketplace with stories & merchant products | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.bego) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bego-world/id1610927088) |
