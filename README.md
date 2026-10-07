@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer"><img src="https://img.shields.io/badge/Apps%20Published-7-success?style=flat-square" alt="Apps published"/></a>
+  <a href="https://play.google.com/store/apps/developer"><img src="https://img.shields.io/badge/Apps%20Published-9-success?style=flat-square" alt="Apps published"/></a>
   <img src="https://img.shields.io/badge/Experience-3%2B%20years-blue?style=flat-square" alt="Experience"/>
   <img src="https://img.shields.io/badge/Based%20in-Giza%2C%20Egypt-lightgrey?style=flat-square" alt="Location"/>
 </p>
@@ -19,11 +19,12 @@
 
 ## 🧑‍💻 About Me
 
-Flutter developer with **3+ years** of hands-on experience building and shipping cross-platform mobile apps for logistics, e-commerce, healthcare, and cooperative-society clients. I've taken **7 apps from first commit to live on both Google Play and the App Store**, and I work comfortably across the whole delivery path — clean architecture, state management, REST/real-time integration, payment gateways, store release and deep linking.
+Flutter developer with **3+ years** of hands-on experience building and shipping cross-platform mobile apps for ride-hailing, e-commerce, classifieds, audio/video content, healthcare and cooperative-society clients. I've taken **9 apps from first commit to live on both Google Play and the App Store**, and I work comfortably across the whole delivery path — clean architecture, state management, REST and real-time integration (Socket.IO, WebRTC), payments and in-app purchases, store release and deep linking.
 
 - 🔭 Currently a **Mid-Level Flutter Developer** at **Develop KW**
 - 🧱 Focused on **Clean Architecture**, **BLoC/Cubit**, and maintainable, testable code
-- 🌍 Building apps used across **Egypt, Kuwait and Jordan** markets (full Arabic/RTL support)
+- 🌍 Building apps used across **Egypt, Kuwait, Jordan and Syria** (full Arabic/RTL support)
+- 🌱 Currently learning backend: **Node.js, NestJS and PostgreSQL**
 - 📫 Reach me at **ya703004@gmail.com**
 
 ---
@@ -34,19 +35,20 @@ Apps I built and shipped — live on both stores.
 
 | App | What it does | Store |
 |---|---|---|
-| **Royal Mind** | Audio & written content platform — podcasts, audiobooks, novels and personal reading lists | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.developkw.royalmind) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/royal-mind/id6502537182) |
+| **Royal Mind** | Audio & written content platform — podcasts, audiobooks, novels, magazines, meditation and WebRTC live streaming | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.developkw.royalmind) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/royal-mind/id6502537182) |
 | **Fego** | Ride-hailing / delivery app for end users | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fego.user) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/fego/id6740404406) |
 | **Fego Driver** | Driver-side companion app with live tracking | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fego.driver) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/fego-driver/id6740406370) |
-| **Bego World** | E-commerce marketplace with stories & merchant products | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.bego) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/bego-world/id1610927088) |
-| **سوق الأردن — Jordan Souq** | Classifieds & marketplace app for the Jordanian market | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Shehab.Jordensouqq) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86/id6744337417) |
+| **BegoHub** *(freelance)* | E-commerce marketplace with stories & merchant products | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.bego) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/begohub/id1610927088) |
+| **سوق الأردن — Jordan Souq** | Classifieds & marketplace app for the Jordanian market | *Store listings retired with the client's account* · [source](https://github.com/momaher74/jorden-souq) |
 | **جمعية الروضة وحولي التعاونية** | Cooperative society app — orders, offers, member services | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.alrawdaApp) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A9-%D9%88%D8%AD%D9%88%D9%84%D9%8A/id6474566099) |
 | **جمعية الفنطاس التعاونية** | Cooperative society app — catalog, orders, notifications | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=develop.app.fontass) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%B7%D8%A7%D8%B3-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id6736586908) |
+| **اتحاد الجمعيات التعاونية — Co-operative Societies Union** | Kuwait co-op union app — price comparison across co-ops, spoiled-goods reports, co-op jobs portal | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.eitihad.dev) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/id6736432325) |
+| **Syria for Sale** | Buy-and-sell marketplace app for Syrian users | [![Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=develop.kw.fosale) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/syria-for-sale/id6745018026) |
 
 ### Other production work
 
-- **Warehouse & Logistics Suite** — receive / allocate / transfer / out permissions driven by barcode scanning, with location tracking of goods.
+- **Warehouse & Logistics Suite** *(freelance)* — receive / allocate / transfer / out permissions driven by barcode scanning, with location tracking of goods.
 - **My Doctor** — appointment booking with in-app **video, audio and chat** consultations.
-- **Flieger Store** — e-commerce app with product catalog, stories, and a merchant-side publishing flow.
 - **Elamana Organization** *(freelance)* — inventory & invoicing app built on Firebase + GetX with an MVC structure.
 - **[Carpooling](https://github.com/YOUSSEFALIEMAM/carpooling)** — trip-sharing app built with GetX and GetStorage. *(source on GitHub)*
 
@@ -78,6 +80,7 @@ Apps I built and shipped — live on both stores.
   <img src="https://img.shields.io/badge/REST_API-6DB33F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQFlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shared_Preferences-607D8B?style=flat-square"/>
 </p>
@@ -88,6 +91,7 @@ Apps I built and shipped — live on both stores.
   <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Linking-4285F4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Payment_Gateways-00A86B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Shorebird_OTA-5B4BDB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
@@ -97,10 +101,10 @@ Apps I built and shipped — live on both stores.
 
 | Role | Company | Period |
 |---|---|---|
-| Mid-Level Flutter Developer | Develop KW | Apr 2025 – Present |
-| Mid-Level Flutter Developer | Flieger Technology | Aug 2024 – Apr 2025 |
+| Mid-Level Flutter Developer | Develop KW | Aug 2025 – Present |
+| Mid-Level Flutter Developer | Flieger Technology | Aug 2024 – Aug 2025 |
 | Junior Flutter Developer | Flieger Technology | Jun 2024 – Aug 2024 |
-| Flutter Developer *(Freelance)* | Self-employed | Aug 2023 – Dec 2023 |
+| Flutter Developer *(Freelance, part-time)* | Self-employed | Aug 2023 – Present |
 | Flutter Developer Intern | Winji | Oct 2022 – May 2023 |
 
 **Education** — B.Sc. in Computer Science & Information Systems, October 6 University (2019 – 2023)
@@ -112,8 +116,9 @@ Apps I built and shipped — live on both stores.
 
 <p>
   <a href="mailto:ya703004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/youssef-ali-590386233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/youssef-ali-emam-590386233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/YOUSSEFALIEMAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://youssefaliemam.web.app"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=firebase&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Open to Flutter roles — remote or on-site in Egypt.</i></p>
